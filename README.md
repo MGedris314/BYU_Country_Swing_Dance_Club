@@ -2,7 +2,9 @@
 
 [My Notes](notes.md)
 
-A brief description of the application here. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+A brief description of the application here.
+
+The application I plan on building will be a web page based around the Country Swing dance club here at BYU.  It will function in a few ways, the first will be more of a calandar that updates as the weeks go and it will mention the moves covered in instruction and the line dance taught.
 
 
 > [!NOTE]
@@ -26,7 +28,7 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 
 ### Elevator pitch
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Being a part of this club has been fun for the first semester, but I've also had a few moments over break and even in the semester where I couldn't remember some of the things we taught.  What I'm looking to accomplish with this website is to give refreshers for steps and moves taught durring certain week.  I also want it to say what the line dance(s) taught that week were, and if I can I'd like to link videos as they get uploaded.
 
 ### Design
 
@@ -43,9 +45,9 @@ sequenceDiagram
 
 ### Key features
 
-- Describe your key feature
-- Describe your key feature
-- Describe your key feature
+- A semester long calandar that will update weekly with what is going to be taught/ what has been taught.
+- A club comitee sign in option to update the calandar.
+- Possibly videos/tutorials of certain dance steps; if that doesn't work, links to places that do.
 
 ### Technologies
 
