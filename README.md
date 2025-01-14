@@ -53,12 +53,15 @@ sequenceDiagram
 
 I am going to use the required technologies in the following ways.
 
-- **HTML** - Description here
-- **CSS** - Description here
-- **React** - Description here
-- **Service** - Description here
-- **DB/Login** - Description here
-- **WebSocket** - Description here
+- **HTML** - Four different view ports.  Main page with schedule and lessons, Admin log in page, Video page, page for Admins to adjust the calandar.
+- **CSS** - Help build out a country esc feel to the page.
+- **React** - Roating views with a root to a single page, interaction to move back and forth between months and possible links to tutiorials.
+- **Service** -  Authorizing committee members and make sure they are the only ones changing things on the calandar.
+- **DB/Login** - Store log in info for the club committee.
+- **WebSocket** - Give latest updates for lessons taught that week and who updated it.
+
+
+[]: # (Stop Here for Tuesday!!!!)
 
 ## 🚀 AWS deliverable
 
