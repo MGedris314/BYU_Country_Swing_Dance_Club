@@ -53,7 +53,7 @@ sequenceDiagram
 
 I am going to use the required technologies in the following ways.
 
-- **HTML** - Four different view ports.  Main page with schedule and lessons, Admin log in page, Video page, page for Admins to adjust the calandar.
+- **HTML** - Five different view ports.  Main page with schedule and lessons, Admin log in page, Video page, page for Admins to adjust the calandar, club information page.
 - **CSS** - Help build out a country esc feel to the page.
 - **React** - Roating views with a root to a single page, interaction to move back and forth between months and possible links to tutiorials.
 - **Service** -  Authorizing committee members and make sure they are the only ones changing things on the calandar.
